@@ -1,0 +1,557 @@
+[33mcommit 65889308f4f2517e996226bf2bf61e200e14a2e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 29 10:29:24 2026 +0100
+
+    doc: jpa relationships diagrams
+
+[33mcommit 47c382be45acb06945eb0f3313992e19aa30980f[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 26 08:23:01 2026 +0100
+
+    doc: compassMap_v2 masterDoc created
+
+[33mcommit 9b4519e680b9ffe8bebe1d0bd0dc2ff3a3b5b995[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 14:03:49 2026 +0200
+
+    doc: project-structure evolution append updated
+
+[33mcommit 6169d02ca0bced76ad77db11c88a85bb510023f0[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:47:32 2026 +0200
+
+    doc: masterDoc_v1 move project-structure to appends
+
+[33mcommit 288010164ba217a43f7b0505b557d95f36f00aa1[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:37:07 2026 +0200
+
+    doc: project-structure 1.6
+
+[33mcommit 386d24ef128d1e0afdb135ef109320b76c9d57ec[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:16:25 2026 +0200
+
+    ref: db
+
+[33mcommit bd2ff0238033860defd8ffbec6b43017cd980ed0[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:16:00 2026 +0200
+
+    feat: CustomerProfile rest, service, repo
+
+[33mcommit 3bc16a97b94654c787cde9f811e68e9194703b84[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:15:44 2026 +0200
+
+    feat: RoadMap rest, service
+
+[33mcommit 8aec7231976a1a068d7dd98ffbe32c1568a0c1e4[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:15:14 2026 +0200
+
+    feat: QuestionAndAnswer rest, service, repo
+
+[33mcommit 308402640426f40e21221ea4a1f5efe45678710c[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 13:14:33 2026 +0200
+
+    feat: Question rest, service, repo
+
+[33mcommit 18f7efd167c1d2ba2c57afeb568fa37deadf6413[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 10:34:00 2026 +0200
+
+    feat: customer createAll add UUID
+
+[33mcommit ac0662489d539a351497aefeef6bc02b407bbba0[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 10:33:30 2026 +0200
+
+    doc: update masterDoc_v1 with links dataModel
+
+[33mcommit 62cdc0ce295833820aa7dae29cf89dd9b159314f[m[33m ([m[1;31morigin/oscar-postman[m[33m, [m[1;32moscar-compass[m[33m)[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 08:19:26 2026 +0200
+
+    doc: masterDoc:v1 update model
+
+[33mcommit 1002d6cf966219d7c5b9d92786616c14dd06c09c[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 08:15:20 2026 +0200
+
+    doc: masterDoc_v1 updated with model
+
+[33mcommit 5eeec6255b0f315da12be053a218d91a83937294[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 08:03:01 2026 +0200
+
+    doc: data model v1
+
+[33mcommit 9f7e9a0934ff13518e3efced14f3aa4519e301e1[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 23 08:02:38 2026 +0200
+
+    ref: data model names
+
+[33mcommit f01f9b32e23cb31a072f950b0c3865db0da2cb8d[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 14:12:55 2026 +0200
+
+    fix: db
+
+[33mcommit d0f3a8d83f4bbca453f5adcf72db5b006f65cc12[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 14:12:37 2026 +0200
+
+    fix: remove @Entity not JPA yet
+
+[33mcommit 26855ae1898be76b7737499a8dc037569811a59f[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:41:42 2026 +0200
+
+    fix: uml v1 mermaid txt
+
+[33mcommit 7d6101aaff7e794f42430c18b7958152586d6e82[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:39:16 2026 +0200
+
+    doc: uml v1 mermaid txt
+
+[33mcommit aec38359c0aee8050e7435b6143834369e334970[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:36:31 2026 +0200
+
+    doc: uml v1 mermaid txt
+
+[33mcommit a46f354c91dad5fd38b21a892ef61a3a8c6430f6[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:19:27 2026 +0200
+
+    doc: update the objects-example md
+
+[33mcommit e96d73ce74d6479b60f42ffa309651dce4123b81[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:15:02 2026 +0200
+
+    doc: uml v1 and objects example
+
+[33mcommit 8cad4dbaf4f002d5d90811a4b1608c5f69d307bc[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:14:18 2026 +0200
+
+    doc: animal uml example
+
+[33mcommit 205b463e7dcd794fb9cfbe184539b00730d239cd[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 13:13:17 2026 +0200
+
+    doc: animal uml example
+
+[33mcommit 6d0be9ddd2235dbf942d851a1d993a51b834b2fe[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 12:57:52 2026 +0200
+
+    fix: hashmap rename, and roadmap to CustomerProfile
+
+[33mcommit a454a8c9d54abc9d5229f0cf7f8435f4d141bac6[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 12:53:10 2026 +0200
+
+    feat: CustomerProfile rest, service and repo draft
+
+[33mcommit 3d92980d14b91b38d133e45d880ab8ee80a37450[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 12:52:37 2026 +0200
+
+    feat: model v1 with no-relationships
+
+[33mcommit c5b4e20161eeedcae9b174f7f5a9cae8d2c99a26[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 08:32:53 2026 +0200
+
+    doc: uml animal
+
+[33mcommit 5e1340be390472bb4c1aacca88ca2edf1ed2c15e[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 22 08:32:45 2026 +0200
+
+    doc: uml animal
+
+[33mcommit 058aa47ff1b1314ac2a6e4cb852f36ebc6cfb169[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 14:28:26 2026 +0200
+
+    doc: model 3 tasks images
+
+[33mcommit 7dfc97a7eb98741fbf12c910872bf8975c2d76bf[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 14:28:03 2026 +0200
+
+    fix: roadMap entity remove @GeneratedValue
+
+[33mcommit 6891b4ddd0e228b70ee890f6f29394b4c19baf9c[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 09:49:33 2026 +0200
+
+    fix: CustomerRestController path getAllCustomers
+
+[33mcommit ba8d5c5078f3c358b52d8ae544a45121f0f3312a[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 09:48:43 2026 +0200
+
+    feat: roadMap restController, service, repository to-do
+
+[33mcommit 51b05a11abbb7d3355a2f3c9858198a6e7e2424b[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 09:47:26 2026 +0200
+
+    doc: postamn
+
+[33mcommit b79124621bb8a4efcfb39deffb92be9a13084828[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 08:42:04 2026 +0200
+
+    doc: data model 2 approaches > masterDoc_v1
+
+[33mcommit 30b478625f38eef572cd3817386fe3bb1645988e[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 08:25:16 2026 +0200
+
+    doc: data model 2 approaches
+
+[33mcommit dea32b8ee17de27e7f4003142e6b3fc15646b5bb[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Oct 20 08:24:33 2026 +0200
+
+    doc: lombok
+
+[33mcommit 98a5add39126e4b2c04a07a9c096b8eacb60f834[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 13:11:05 2026 +0200
+
+    doc: masterDoc_v1 api rest
+
+[33mcommit ca8930fe96d9b79dfd494036fb2e9cb51cd4457b[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 13:03:31 2026 +0200
+
+    feat: backoffice getall customers and getbyid
+
+[33mcommit 723b7144e6c54768bdb93971a842338d27d463b4[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 12:50:36 2026 +0200
+
+    feat: customer rest controller
+
+[33mcommit 5bd5ad044736b47c1761e23d5540a332086de536[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 11:55:47 2026 +0200
+
+    doc: customer controller image and updated masterDoc_v1
+
+[33mcommit 328b14580d156ae4442381f47ad34b651bb0c188[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 11:24:14 2026 +0200
+
+    doc: project structure image
+
+[33mcommit fa17ab1b6e7171d7bcd689888c57796c7f3f2122[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 10:08:13 2026 +0200
+
+    feat: customer rest controller v1
+
+[33mcommit e88bc99a19ce306388bc7cf2772803a9be54dbf7[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 10:07:48 2026 +0200
+
+    feat: add populator to service
+
+[33mcommit 908ef3eef84ff69f312c4b1e3ad003e3a977ef85[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Oct 19 10:07:01 2026 +0200
+
+    fix: idea xmls
+
+[33mcommit e71043b6ef2da47f588c8af18d5c066221ccfff6[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 2 08:20:48 2026 +0200
+
+    doc: diagram flow customer populate blocks
+
+[33mcommit edab5c41213dad210d24bbc152a2e78caaad35b3[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 2 08:17:41 2026 +0200
+
+    doc: PRA Java SE Practice Examples for CompassMap
+
+[33mcommit cb329aa833c5b1952ad3124efdfe1591c60ee9aa[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Oct 2 08:06:50 2026 +0200
+
+    doc: Flow of Execution: CLI → DB Population via Spring Boot
+
+[33mcommit 62a638149ea974411181837e0335000c76ff255d[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 1 12:38:39 2026 +0200
+
+    doc: diagram flow customer populate
+
+[33mcommit 4bce675fa5222691e1fdee978bb0a992945af166[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 1 10:28:26 2026 +0200
+
+    feat: refactor loop from main to BackOffice and new feature, customer loop, with static options
+
+[33mcommit d24f93b71b4d3b86c3c7217d7813ccb451ac2684[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Oct 1 09:55:21 2026 +0200
+
+    ref: populatorDB comments
+
+[33mcommit 0189c5cdcab8b86ecc5d6b0fbc00738a0c36a663[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 12:27:42 2026 +0200
+
+    feat: customer builder alternative
+
+[33mcommit 920a18fff0c3bfabe5f825910d55496bdba4edc8[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 12:27:12 2026 +0200
+
+    doc: ide runner code
+
+[33mcommit a6cbcfabda7cd8968d62246dcbb441f0023718f8[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 12:05:28 2026 +0200
+
+    feat: remove tests
+
+[33mcommit faa1b69d6a2496dde55eb1bcd083ee724bf17ece[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 12:05:14 2026 +0200
+
+    feat: runner, lombok, builder, PopulatorDB
+
+[33mcommit ad2c0359f60bcc447eb0ca840d07d74371363945[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 12:04:26 2026 +0200
+
+    doc: ide screenshots
+
+[33mcommit 374475af499a18573deee1f1a5e9651a360e0364[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 08:32:03 2026 +0200
+
+    doc: update masterDoc v1.2 domains and faker
+
+[33mcommit 43718c50389821684b76a1fc6fca2efbaee01983[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 29 08:29:02 2026 +0200
+
+    doc: update masterDoc v1.2 domains
+
+[33mcommit ff4ba7064d4ef80f5c190eba2d30f1e7c21c6c98[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 28 14:14:24 2026 +0200
+
+    ref: just on line to test
+
+[33mcommit 159965badb47bc68c069ee0ea22ce5e18a6515a4[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 28 13:56:50 2026 +0200
+
+    ref: start to work with DDD
+
+[33mcommit 613dd441d151a1cfde0837519114edcfee4bd6f9[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Sat Sep 26 07:51:11 2026 +0200
+
+    doc: update synthetic data algorithm appraoches append
+
+[33mcommit bd4c88e7b2cdf158155f107ccbfb0cff8b114a1e[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Sat Sep 26 07:22:11 2026 +0200
+
+    feat: java faker tests and dependency
+
+[33mcommit 4daecf362b3ea55dbddbefb5006742182b7d3c78[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Sat Sep 26 07:21:34 2026 +0200
+
+    doc: java-faker dependency and approaches to synthetic data
+
+[33mcommit c5039edb3db0caf80a2791a82668a44948c2b9bd[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Sep 25 11:46:44 2026 +0200
+
+    feat: methods at customer service
+
+[33mcommit 94ca3ab429634224dc8bf6a41a87db25735a472e[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Sep 25 10:49:51 2026 +0200
+
+    ref: comments and running tests
+
+[33mcommit 88bc7a16892f11e6be2f05e17aad48443e104a1b[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Sep 25 08:23:31 2026 +0200
+
+    doc: spring init create a mini project
+
+[33mcommit 717d3482a1f74731b829e3448e49411cb47c2494[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Sep 25 08:11:07 2026 +0200
+
+    doc: adding spring init create project
+
+[33mcommit f804ecc72d3ba764e9f856bdc5b24ee8570847c8[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Wed Sep 23 12:41:17 2026 +0200
+
+    doc: masterdoc version 1.1 commmandlinerunner
+
+[33mcommit 52e62dd70c3d2ef915c7cd0d9228fc3f4598c484[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Wed Sep 23 12:21:22 2026 +0200
+
+    doc: project structure typos
+
+[33mcommit 6757b0ef0ff023c793edf9583396c0d2e3a55b9d[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Wed Sep 23 12:15:38 2026 +0200
+
+    doc:  masterdoc version 1.1 refactor
+
+[33mcommit 5c6c6c8ef25890c742b525b512b84e65b5a6e14b[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Wed Sep 23 12:09:15 2026 +0200
+
+    doc: masterdoc version 1.1
+
+[33mcommit e4c4453b0499056994559a33c03505cb557d4ee5[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 22 14:26:50 2026 +0200
+
+    feat: test and service to create and save customer object
+
+[33mcommit 57c1cbb2df86e08e7cfd17fbacfd70890ffbb040[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 22 08:29:17 2026 +0200
+
+    doc: java se foundation diagrams
+
+[33mcommit 68b0e0420c7d0d64df8749a1bcb7a99e4be6e085[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 13:49:30 2026 +0200
+
+    ref: id to string, comment not used code
+
+[33mcommit 09d1774a712b366091a25f7c75f3ffb656e03bf5[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 12:43:17 2026 +0200
+
+    doc: screenshots for jpa, properties, etc..
+
+[33mcommit 9a677f2a81b3f9b9980d922132143f8a2ac1889a[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 12:42:50 2026 +0200
+
+    feat: repositry and properties for customer/roadmap
+
+[33mcommit ea45dd63cb62ff1de71a53345dea69cdbf13a175[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 12:00:20 2026 +0200
+
+    doc: new diagram
+
+[33mcommit 2611a565e7fe832ce6b48620fddad4667bb724d4[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 12:00:03 2026 +0200
+
+    feat: roadmap class now is a entity
+
+[33mcommit 77fc3af64e4a13caf8cef021abc48faa7e48eb53[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 11:59:21 2026 +0200
+
+    feat: pom updated with JPA
+
+[33mcommit c8ca1fc631b493744b2a37eb6cf6f52f3bf1d803[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 11:18:45 2026 +0200
+
+    doc: diagrams spring boot backend
+
+[33mcommit 41f3fc9835384af1afecc64e0d897a761cb0cd3a[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 11:18:08 2026 +0200
+
+    feat: new classes Customer/RoadMap and test
+
+[33mcommit 49831728e12e269e83f8c22a5ce121488c8be8bd[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Mon Sep 21 08:53:40 2026 +0200
+
+    doc: git gh protocl
+
+[33mcommit bc92492e9ee94f05ae611ca2152d55b486ccb2b2[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Fri Sep 18 11:45:21 2026 +0200
+
+    doc: diagrams server client SSR CSR
+
+[33mcommit a0f95cf5b13638434d4a99273ec53fe238d929ba[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Thu Sep 17 10:11:42 2026 +0200
+
+    doc: folder structure  refactor
+
+[33mcommit 56d8d7bb9e720df6149914bd8aec70de592f016b[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 14:21:32 2026 +0200
+
+    feat: 2 homes to test controller
+
+[33mcommit 28bb92ee7c1525b6e46fcb2bab13973767f03dfd[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 13:28:56 2026 +0200
+
+    doc: images rendering v1.1
+
+[33mcommit fc3aac186ea51c562507d6718107c811fb5eaf87[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 13:27:38 2026 +0200
+
+    feat: home controller and home.html
+
+[33mcommit 452ef7677f422e31f6b3166bfe85b67d6d08337e[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 13:27:05 2026 +0200
+
+    doc: update image
+
+[33mcommit aac116cc590baf3d8b482afb0a09e230e8b0655d[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 12:27:17 2026 +0200
+
+    recreate project
+
+[33mcommit 5b5fa4d238f9a2631fff42800ddb01b85a995961[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 12:22:16 2026 +0200
+
+    delete project
+
+[33mcommit 82f1c245bab1190e8a75a6ce4ae0f006929c0257[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 12:13:33 2026 +0200
+
+    second commmit
+
+[33mcommit 87b4f4046be91348191d3d6a8ca554ba4dd9f007[m
+Author: albertprofe <albertprofe@gmail.com>
+Date:   Tue Sep 15 11:48:36 2026 +0200
+
+    first commit
