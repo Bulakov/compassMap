@@ -86,6 +86,7 @@ class DemoApplicationTests {
 
 			customerService.createCustomer(newCustomer);
 		}
+		//System.out.println(customerService.getAllCustomers());
 	}
 
 	@Test
@@ -164,6 +165,10 @@ class DemoApplicationTests {
 			}
 			profile.setRecommendedRoadmaps(assigned);
 		}
+		//asignar las questions:
+		Question question = new Question();
+		question.setId("q_001");
+		question.setName("");
 
 		//save the roadmaps
 		roadMapRepository.saveAll(roadMaps);
@@ -251,7 +256,7 @@ class DemoApplicationTests {
 		assertEquals(profile.getId(), assessmentViewService.getAssessmentViewById(created.getId()).getProfile().getId());
 
 
-		// ------------------------------------	CLEAN UP ------------------------------------
+	/*	// ------------------------------------	CLEAN UP ------------------------------------
 		// deleting the assessment cascades to its Q&A rows
 		assessmentViewService.deleteAssessmentView(created.getId());
 		assertTrue(assessmentViewService.getQuestionAndAnswersByAssessmentViewId(created.getId()).isEmpty());
@@ -259,7 +264,7 @@ class DemoApplicationTests {
 		// deleting the profile cascades to its assessment views
 		customerProfileRepository.deleteById(profile.getId());
 		questionRepository.deleteById(question.getId());
-		customerService.deleteCustomer(customer.getId());
+		customerService.deleteCustomer(customer.getId());*/
 	}
 
 }
